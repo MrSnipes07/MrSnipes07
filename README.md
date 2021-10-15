@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrSnipes07
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Swift, HTML, and JavaScript
+- 🌱 I’m currently learning Swift and Python
 - 💞️ I’m looking to collaborate on iOS open-source projects
 - 📫 How to reach me wilsleygermano@gmail.com
 
