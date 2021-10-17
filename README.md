@@ -1,5 +1,5 @@
 
-<h1>Who am I?</h1>
+<h1>Who am I?</h1> | ![](https://komarev.com/ghpvc/?username=mrsnipes07&color=blueviolet)
 
 <p>- 👋 Hi, I’m @MrSnipes07 <br>
 <p>- 👀 I’m interested in mobile development <br>
@@ -11,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsnipes07)](https://github.com/mrsnipes07/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=mrsnipes07&color=blueviolet)
+
 
 <!---
 MrSnipes07/MrSnipes07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
