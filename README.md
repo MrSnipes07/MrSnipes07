@@ -2,10 +2,10 @@
 <h3>Who am I?</h3> 
 
 <ul>
-<li>👋 Hi, I’m @MrSnipes07 </li>
-<li> 👀 I’m interested in mobile development </li>
+<li> 👋 Hi, I’m Wilsley Germano (MrSnipes07) </li>
+<li> 👀 I’m interested in mobile development and data science </li>
 <li> 🌱 I’m currently learning Swift and Python </li>
-<li> 💞️ I’m looking to collaborate on iOS open-source projects </li>
+<li> 💞️ I’m looking to collaborate on iOS/Python open-source projects </li>
 <li> 📫 How to reach me wilsleygermano@gmail.com </li>
 </ul>
 
