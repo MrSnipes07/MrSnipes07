@@ -1,11 +1,13 @@
 
 <h3>Who am I?</h3> 
 
-<p>- 👋 Hi, I’m @MrSnipes07 <br>
-<p>- 👀 I’m interested in mobile development <br>
-<p>- 🌱 I’m currently learning Swift and Python <br>
-<p>- 💞️ I’m looking to collaborate on iOS open-source projects <br>
-<p>- 📫 How to reach me wilsleygermano@gmail.com <br>
+<ul>
+<li>👋 Hi, I’m @MrSnipes07 </li>
+<li> 👀 I’m interested in mobile development </li>
+<li> 🌱 I’m currently learning Swift and Python </li>
+<li> 💞️ I’m looking to collaborate on iOS open-source projects </li>
+<li> 📫 How to reach me wilsleygermano@gmail.com </li>
+</ul>
 
 <h3>What am I Learning/Working?</h3>
 
