@@ -6,7 +6,7 @@
 <li> 👀 I’m interested in mobile development </li>
 <li> 🌱 I’m currently learning Flutter and Python </li>
 <li> 💞️ I’m looking to collaborate on Flutter/Python open-source projects </li>
-<li> 📫 How to reach me wilsleygermano@gmail.com / https://www.linkedin.com/in/wilsley-germano/ </li>
+<li> 📫 How to reach me mailto:wilsleygermano@gmail.com / https://www.linkedin.com/in/wilsley-germano/ </li>
 </ul>
 
 <h3>What am I Learning/Working?</h3>
