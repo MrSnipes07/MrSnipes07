@@ -1,5 +1,5 @@
 
-###Who am I?
+### Who am I?
 
 
 * 👋 Hi, I’m Wilsley Germano (MrSnipes07) 
@@ -11,11 +11,11 @@
 
 
 
-<h3>What am I Learning/Working?</h3>
+### What am I Learning/Working?
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsleygermano)](https://github.com/wilsleygermano/github-readme-stats)
 
-<h3>Besides my mom, who is visiting my Git Profile?</h3>
+#### Besides my mom, who is visiting my Git Profile?</h3>
 
 ![](https://komarev.com/ghpvc/?username=wilsleygermano&color=blueviolet)
 
