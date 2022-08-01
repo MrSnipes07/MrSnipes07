@@ -1,13 +1,15 @@
 
-<h3>Who am I?</h3> 
+###Who am I?
 
-<ul>
-<li> 👋 Hi, I’m Wilsley Germano (MrSnipes07) </li>
-<li> 👀 I’m interested in mobile development </li>
-<li> 🌱 I’m currently learning Flutter</li>
-<li> 💞️ I’m looking to collaborate on Flutter open-source projects </li>
-<li> 📫 How to reach me: ![LinkedIn](https://www.linkedin.com/in/wilsley-germano/) </li>
-</ul>
+
+* 👋 Hi, I’m Wilsley Germano (MrSnipes07) 
+* 👀 I’m interested in mobile development 
+* 🌱 I’m currently learning Flutter
+* 💞️ I’m looking to collaborate on Flutter open-source projects
+* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/wilsley-germano/)
+
+
+
 
 <h3>What am I Learning/Working?</h3>
 
