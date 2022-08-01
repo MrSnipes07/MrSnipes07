@@ -4,8 +4,8 @@
 <ul>
 <li> 👋 Hi, I’m Wilsley Germano (MrSnipes07) </li>
 <li> 👀 I’m interested in mobile development </li>
-<li> 🌱 I’m currently learning Flutter and Python </li>
-<li> 💞️ I’m looking to collaborate on Flutter/Python open-source projects </li>
+<li> 🌱 I’m currently learning Flutter</li>
+<li> 💞️ I’m looking to collaborate on Flutter open-source projects </li>
 <li> 📫 How to reach me wilsleygermano@gmail.com / https://www.linkedin.com/in/wilsley-germano/ </li>
 </ul>
 
